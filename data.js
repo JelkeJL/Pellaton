@@ -1,6 +1,6 @@
 var entities;
 var segments;
-var current_segment_start = 0;
+var current_segment_start = -1;
 
 var iframe = document.querySelector('iframe');
 var player = new Vimeo.Player(iframe);
