@@ -2,8 +2,6 @@
 
 Project for the [#GLAMhack2021](http://make.opendata.ch/wiki/event:2021-04)
 
-Documentation: <https://make.opendata.ch/wiki/project:pellaton>
-
 This repo was forked and slightly cleaned up: <https://github.com/sapa/pellaton-challenge>
 
 It is accessible at <https://sapa.github.io/pellaton-challenge/>.
